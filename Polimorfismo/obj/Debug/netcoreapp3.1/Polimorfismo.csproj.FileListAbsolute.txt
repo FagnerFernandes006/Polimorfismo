@@ -1,0 +1,13 @@
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.exe
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.deps.json
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.dev.json
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\Users\Fagner Fernandes\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.genruntimeconfig.cache
